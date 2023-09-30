@@ -1,8 +1,6 @@
 # Unitree Go1 Free-Dog SDK C++
 
-This repository contains an adapted version of [free-dog-sdk](https://github.com/Bin4ry/free-dog-sdk) in CPP.
-
-The code has a number of improvements, but it only has low level control.
+This repository is CPP port built on the commendable work of https://github.com/Bin4ry and team in [free-dog-sdk](https://github.com/Bin4ry/free-dog-sdk). The code has a number of improvements, but it only has low level control.
 
 ## Installation Guide
 
@@ -62,6 +60,9 @@ The dog's front right leg should do a sin motion.
 ## Warnings
 
 Absolutely NO warranty. This is not intentionally designed to but may inadvertently destroy your robot.
+
+## Network data for further development and analysis
+Packet data is available here: https://drive.google.com/drive/folders/1sj5RmSSMArtuQ0Jn5zo_W-naarSg7qQg
 
 ## LICENSE
 
